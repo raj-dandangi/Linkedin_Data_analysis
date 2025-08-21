@@ -1,4 +1,4 @@
-# 🌐 LinkedIn Company Data Scraper
+🌐 LinkedIn Company Data Scraper
 
 > **A robust, human-like Python scraper for collecting public company data from LinkedIn at scale.**
 
